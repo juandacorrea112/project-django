@@ -1,0 +1,33 @@
+body{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+}
+.divune{
+    width: 100%;
+    height: auto;
+}
+.divtow{
+    width: 100%;
+    height: auto;
+    text-align: center;
+}
+.navmenu{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-around;
+}
+.navmenu li{
+    text-decoration: none;
+}
+
+.divimgs{
+    width: 40%;
+    height: auto; 
+}
+.img1{
+    width: 100%;
+}
+.footer1{
+    text-align: center;
+}
